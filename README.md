@@ -1,7 +1,7 @@
 # Project
 Smart Irrigation System
 
-PROJECT TITLE:SMART IRRIGATION SYSTEM
+PROJECT TITLE: SMART IRRIGATION SYSTEM
 
 Inspiration: Irrigation is the most important agricultural input in a tropical monsoon country like India where rainfall is uncertain, unreliable and erratic India cannot achieve sustained progress in agriculture unless and until more than half of the cropped area is brought under assured irrigation.Intensive irrigation has lead to sharp rise in sub-soil water,leading to water-logging,soil salinity and alkalinity.It also leds to large wastage of human labour.Hence, crops are affected by the ill-effects of bad irrigation.
 
@@ -9,14 +9,15 @@ PROPOSED SOLUTION : The aim of this project is to develop a smart irrigation mon
 
 TECH/FRAMEWORK USED:
 
-Arduino Uno Board
-GSM SIM900A module
-Soil moisture sensor
-DHT-11 Sensor
-Ultrasonic sensor
-Silicon Tubing
-Water Pump and motor
-Arduino IDE 1.8.8
+* Arduino Uno Board
+* GSM SIM900A module
+* Soil moisture sensor
+* DHT-11 Sensor
+* Ultrasonic sensor
+* Silicon Tubing
+* Water Pump and motor
+* Arduino IDE 1.8.8
+
 WORKING PRINCIPLE :
 
 Soil moisture sensor is inserted into the soil to detect the moisture percentage continously.
